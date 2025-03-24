@@ -19,27 +19,6 @@ This is a Recipe Application built using React that allows users to search for r
   - Nutritional information (calories, fats, proteins, etc.).
   - User ratings and reviews (if applicable).
 
-### Favorites Feature
-- Users can save their favorite recipes.
-- Local storage or a backend service is used to persist favorites.
-
-### User Authentication (Optional)
-- Users can create accounts and log in.
-- Users can save their favorite recipes and personal notes.
-
-### Responsive Design
-- The application is fully mobile-friendly.
-- Uses CSS frameworks like Bootstrap or Tailwind CSS for styling.
-
-### Error Handling
-- User-friendly error messages are displayed for failed API calls or empty search results.
-
-### Loading States
-- Loading indicators are shown while fetching data from the API.
-
-### Theming
-- Users can switch between light and dark modes.
-
 ## Technologies & Tools
 
 - **React**: The core library for building the user interface.
