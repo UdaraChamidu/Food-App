@@ -50,5 +50,5 @@ To get started with the project:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/recipe-app.git
-   cd recipe-app
+   git clone https://github.com/UdaraChamidu/Food-App.git
+   cd Food-App
