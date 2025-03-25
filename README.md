@@ -22,15 +22,14 @@ This is a Recipe Application built using React that allows users to search for r
 ## Technologies & Tools
 
 - **React**: The core library for building the user interface.
-- **React Router**: For handling navigation between different pages (e.g., home, recipe details).
+- **React Router**: For handling navigation between different pages (e.g. recipe details).
 - **Axios/Fetch API**: For making HTTP requests to the recipe API.
 - **CSS Modules/Styled Components**: For modular styling.
 - **Context API/Redux**: For state management.
-- **React Hooks**: Utilizing hooks like `useState`, `useEffect`, and custom hooks.
+- **React Hooks**: Utilizing hooks like `useState`, `useEffect` and custom hooks.
 
 ## Concepts Covered
 
-- **Component Lifecycle**: Understanding how components mount, update, and unmount.
 - **State Management**: Managing local state and lifting state up.
 - **API Integration**: Handling API responses, errors, and managing loading states.
 - **Form Handling**: Validating user input and managing form inputs.
@@ -39,7 +38,7 @@ This is a Recipe Application built using React that allows users to search for r
 
 ## Learning Outcomes
 
-- Build a fully functional recipe application using React.
+- Build a full functional recipe application using React.
 - Understand API integration and state management.
 - Implement responsive design principles.
 - Apply best practices in React development.
